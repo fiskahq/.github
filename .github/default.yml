@@ -1,7 +1,7 @@
 name: Default
 
 on:
-  pull_request:
+  push:
 
 jobs:
   missing-ci:
